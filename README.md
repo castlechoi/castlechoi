@@ -1,4 +1,4 @@
-## Joon-Seung Choi
+## Joon-Seong Choi
 I'm a M.S. Student in the Department of Artificial Intelligence Korea University, Seoul, South Korea.
 
 ### Interest
