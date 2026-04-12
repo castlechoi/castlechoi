@@ -1,5 +1,5 @@
 ## Joon-Seong Choi
-I'm a M.S. in the Department of Artificial Intelligence Korea University, Seoul, South Korea.
+I'm a M.S. in Artificial Intelligence from Korea University, Seoul, South Korea.
 
 ### Research Interest
 - ```Singing Voice Conversion (SVC)```
