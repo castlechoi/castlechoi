@@ -1,9 +1,9 @@
 ## Joon-Seong Choi
-I'm a M.S. Student in the Department of Artificial Intelligence Korea University, Seoul, South Korea.
+I'm a M.S. in the Department of Artificial Intelligence Korea University, Seoul, South Korea.
 
-### Interest
+### Research Interest
 - ```Singing Voice Conversion (SVC)```
-- ```Singing Technique Conversion (STC)```
+- ```Text-to-Speech (TTS)```
 
 ## Publications
 ### 2025
